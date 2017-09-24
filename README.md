@@ -4,6 +4,10 @@
 
 _The phone book should allow listing available contacts and searching through them. Listed contacts should be sorted alphabetically by Name. A user should be able to search for a contact using a query that represents either a contact name or a contact phone number. A user should also be able to remove a contact from the phone book. The phone book can hold up to 10,000 contacts_
 
+## Plan
+
+Please check trello link https://trello.com/invite/b/zUrlc5Py/dd474f84b2916b1ea7565876bf4bf342/phone-book-cognitev
+
 ## Notes
 
 - I used Vanilla Javascript in this task because i didn't add any transpiler or polyfill.
